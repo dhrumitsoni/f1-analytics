@@ -1,0 +1,8 @@
+# IDE settings
+.idea/
+
+# Environment files
+.env
+
+# Do not ignore .env.sample
+!.env.sample

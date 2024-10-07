@@ -1,0 +1,6 @@
+pydantic~=2.9.2
+pydantic-settings~=2.5.2
+SQLAlchemy~=2.0.35
+fastapi~=0.115.0
+PyMySQL~=1.1.1
+uvicorn~=0.31.0
