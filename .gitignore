@@ -6,3 +6,7 @@
 
 # Do not ignore .env.sample
 !.env.sample
+
+# Python created dirs
+__pycache__/
+*.pyc
